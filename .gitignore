@@ -1,0 +1,22 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Environment variables & secrets
+.env
+credentials.json
+
+# Compiled files
+*.pyc
+
+# Other generated content
+*.pdf
+
+# IDE/editor configs (optional)
+.vscode/
+.idea/

@@ -1,0 +1,12 @@
+pdfplumber
+supabase
+python-dotenv
+requests
+pandas
+gspread
+google-auth
+
+numpy<2.0
+pandas
+pyarrow
+spacy
