@@ -10,3 +10,6 @@ numpy<2.0
 pandas
 pyarrow
 spacy
+
+pytesseract
+pdf2image
